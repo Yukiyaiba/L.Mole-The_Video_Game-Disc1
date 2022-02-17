@@ -4,7 +4,7 @@ L.Mole - The Video Game - Disc1
 L.Mole a hős videós évekig tartotta vissza a pokoldémonok invázióját a földre a Halloween-i videóinak a segítségével.
 Ám ennek 2022ben vége szakadt.
 
-Fanatikus rajongók egy csoportja azonban megpróbálja felvenni a harcot velük egy videójáték elkészítésével, melyel talán sikerül megállítani a földre szabaduló démonhordákat.
+Fanatikus rajongók egy csoportja azonban megpróbálja felvenni a harcot velük egy videójáték elkészítésével, mellyel talán sikerül megállítani a földre szabaduló démonhordákat.
 
 Ebben a repóban találjátok az elért eredményeket.
 Ám a helyetekben nem fűznék sok reményt a meneküléshez.
