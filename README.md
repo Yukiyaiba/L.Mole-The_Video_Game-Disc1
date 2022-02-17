@@ -10,7 +10,7 @@ Ebben a repóban találjátok az elért eredményeket.
 Ám a helyetekben nem fűznék sok reményt a meneküléshez.
 Lévén ezek a kockák nem túl hatékonyan dolgoznak, így szinte biztos a pusztulás.
 
-A terveket/leírásokat a PLOT.TXT-ben találjátok a játékhoz.
+A terveket/leírásokat a PLOT.md-ben találjátok a játékhoz.
 
 A véleményezéseket, hozzáfűznivalókat, segítségfelajánlásokat az Éjjeli Vakond Discord szerveren tehetitek meg.
 
