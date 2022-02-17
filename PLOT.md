@@ -20,3 +20,9 @@ Ha kellő pontszámot sikerül elérni, Jani mérgelődve távozik, és figyelme
 - Platformjáték: platformjáték
 - Videóeditor: na erről lövésem sincs még, hogyan lesz kész
 - Vége főcím: 100%-ban automatizált kvázi videóanyag
+
+# Random egymásradobált ötletek
+Az utolsó videó végefőcíme után üti el az óra az éjfélt. Ekkor jelenik meg Jani, hogy kárörvendjen.
+Az idő 24 óra és a játékban mint Stamina vagy Manna van funkciója de magukon a pályákon töltött idő is lejön belőle. A HUB ban nem fogy az idő. Időhöz L.Mole ok megtalálásával és az elrejtett "kincsek" amik valójában a videószerkesztésnél felhasználható matricák, hangok stb-k felkutatásával lehet jutni.
+Az ellenfelek eliminálása egy picit megfagyasztja az időt de ha sérülünk, az levon 1-1 percet belőle.
+Illetve az animés succubusok probálnak még nagymértékben hátráltatni az előrehaladásban, azzal, hogy mellékvágányra terelik a játékost.
