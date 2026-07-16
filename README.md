@@ -1,3 +1,14 @@
+> [!NOTE]
+> Ez a GitHub repó csak egy statikus tükör, ezért előfordulhat, hogy nem mindig tükrözi a projekt aktuális állapotát.
+>
+> A fejlesztés kizárólag a Codebergen zajlik:
+>
+> **https://codeberg.org/Yukiyaiba/L.Mole-The_Video_Game-Disc1**
+>
+> A legfrissebb verzióért, hibajelentésekért, funkciókérésekért és hozzájárulásokért kérlek a Codeberg repót használd.
+
+---
+
 # L.Mole-The_Video_Game-Disc1
 L.Mole - The Video Game - Disc1
 
