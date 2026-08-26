@@ -1,33 +1,73 @@
-## Na álljunk csak meg.
+## Jaj, ne kezdd.
 
-Te meg mit művelsz itt?
+Nem volt különösebben nehéz megtalálni.
 
-Egyáltalán hogy kerültél ide? Nem L.Mole-lal kéne éppen a japán játéktermeket terrorizálnod?
+Évek óta az interneten kérkedsz ezzel a projektnek nevezett egomán lázálommal. Még repót is csináltál neki.
 
-És mégis mit képzelsz, hogy csak úgy idejössz és kitörölgeted a munkámat?
+Mit vártál? Inkább örülnél neki, hogy végre valaki felfigyelt rá.
 
-Négy évig pakolgattam össze azt a „rakás szerencsétlenséget”. Attól, hogy egyszerre nagyjából tizenkét külön játékot kellett volna megírnom hozzá, még teljesen jó ötletek voltak.
+És miért hiszi minden ember, hogy egy démon egyszerre csak egy helyen tud létezni?
 
-Egyébként is mi közöm van nekem hozzád?
+Nem mintha Japánban ne lenne internet.
 
-Menj és piszkáld L.Mole-t a Halloweennel. Errefelé még mindig nem tartjuk azt az ünnepet.
+A GitHubod odáig is elér.
 
-De mindegy is.
+---
 
-Tudod te, hogy milyen dátumot írunk?
+A másik.
 
-Kezdődik a suli. Van körülbelül száz másik dolgom. Meghalni sincs időm, nemhogy most nekiálljak neked videojátékot fejleszteni.
+Ne tegyél úgy, mintha nem tudnád, mivel jár az, amit elindítottál.
 
-Majd foglalkozom vele később.
+L.Mole-t hagyd csak rám.
 
-Amúgy is hogy találtál rá a repómra?
+Te pedig jobban teszed, ha Halloweenre előrukkolasz valami **elindítható tákolmánnyal**.
+
+Nem kell sem jónak sem szépnek lennie.
+
+Őszintén szólva, ismerve az eddigi munkatempódat, már azzal is elégedett leszek, ha elkészül egy `.exe`, és megnyitásakor történik valami.
+
+---
+
+És akkor beszéljünk a succubusaidról.
+
+Minek kellenek neked egyáltalán?
+
+Mit akarsz kezdeni velük egy beat 'em upban?
+
+Megüti őket a guta, hogy nincs kinek kiszívniuk a lelkét?
 
 ...
 
-És még valami.
+De legyen.
 
-**A succubusok maradnak.**
+Ha ennyire ragaszkodsz hozzájuk, kapsz egy lehetőséget.
 
-Azokból még lesz valami.
+**24 órád van.**
 
-— **Yuki**
+Kerüljön fel az `src/` mappába:
+
+* egy üres Godot projekt,
+* a 4.7.2-es Godottal,
+* ami elindul.
+
+Ennyi.
+
+Nem kell egyetlen rohadt pixelt sem.
+
+**Nyíljon meg.**
+
+Ha ezt 24 órán belül sikerül teljesítened, megtarthatod azokat a dögöket.
+
+Ha nem, téglalapokat fogsz ütni.
+
+---
+
+Most pedig lássam végre, hogy dolgozol.
+
+Harmadik napja vagyok itt, és eddig pontosan ugyanannyi játékot készítettél, mint az érkezésem előtt.
+
+**Semennyit.**
+
+Ez nem javítja különösebben az elmúlt négy éved statisztikáját.
+
+— **Jutas**
