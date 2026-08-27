@@ -1,73 +1,39 @@
-## Jaj, ne kezdd.
+## Jó, mindegy.
 
-Nem volt különösebben nehéz megtalálni.
+Mondjuk egy beat 'em upban tényleg elég furán vennék ki magukat.
 
-Évek óta az interneten kérkedsz ezzel a projektnek nevezett egomán lázálommal. Még repót is csináltál neki.
+Végül is tartsd meg a succubusaidat.
 
-Mit vártál? Inkább örülnél neki, hogy végre valaki felfigyelt rá.
+Nekem erre amúgy sincs most időm.
 
-És miért hiszi minden ember, hogy egy démon egyszerre csak egy helyen tud létezni?
+Viszont ha már ennyire pontosan tudod, hogy mit kellene csinálnom, elárulhatnád, **miről szól majd ez a csodálatos játék**.
 
-Nem mintha Japánban ne lenne internet.
-
-A GitHubod odáig is elér.
-
----
-
-A másik.
-
-Ne tegyél úgy, mintha nem tudnád, mivel jár az, amit elindítottál.
-
-L.Mole-t hagyd csak rám.
-
-Te pedig jobban teszed, ha Halloweenre előrukkolasz valami **elindítható tákolmánnyal**.
-
-Nem kell sem jónak sem szépnek lennie.
-
-Őszintén szólva, ismerve az eddigi munkatempódat, már azzal is elégedett leszek, ha elkészül egy `.exe`, és megnyitásakor történik valami.
-
----
-
-És akkor beszéljünk a succubusaidról.
-
-Minek kellenek neked egyáltalán?
-
-Mit akarsz kezdeni velük egy beat 'em upban?
-
-Megüti őket a guta, hogy nincs kinek kiszívniuk a lelkét?
+Vagy történetet is nekem kell kitalálnom ahhoz az egy pályához, amit olyan nagylelkűen engedélyeztél?
 
 ...
 
-De legyen.
+Jó.
 
-Ha ennyire ragaszkodsz hozzájuk, kapsz egy lehetőséget.
+De legyen női főszereplő.
 
-**24 órád van.**
+Mondjuk **Julia**.
 
-Kerüljön fel az `src/` mappába:
+Legyen motoros.
 
-* egy üres Godot projekt,
-* a 4.7.2-es Godottal,
-* ami elindul.
+Sőt, legyen két rivális motoros banda.
 
-Ennyi.
+Julia az egyik banda tagja, Romeo meg a másiké.
 
-Nem kell egyetlen rohadt pixelt sem.
+Julia megtudja, hogy Romeo megcsalta, ezért végigveri magát a másik bandán, hogy a végén személyesen is elverhesse Romeót.
 
-**Nyíljon meg.**
+Tessék.
 
-Ha ezt 24 órán belül sikerül teljesítened, megtarthatod azokat a dögöket.
+Van történeted.
 
-Ha nem, téglalapokat fogsz ütni.
+Most már biztosan sokkal jobb lesz az egy pályád, egy ellenfeled meg egy ütésed.
 
----
+A succubusokat meg akkor felőlem kidobhatod.
 
-Most pedig lássam végre, hogy dolgozol.
+**De időm továbbra sincs a marhaságaidra.**
 
-Harmadik napja vagyok itt, és eddig pontosan ugyanannyi játékot készítettél, mint az érkezésem előtt.
-
-**Semennyit.**
-
-Ez nem javítja különösebben az elmúlt négy éved statisztikáját.
-
-— **Jutas**
+— **Yuki**
