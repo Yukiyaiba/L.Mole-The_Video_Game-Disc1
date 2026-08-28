@@ -1,39 +1,69 @@
-## Jó, mindegy.
+## Te most komolyan ezt találtad ki?
 
-Mondjuk egy beat 'em upban tényleg elég furán vennék ki magukat.
+Ahhoz képest, hogy állítólag nincs erre időd, feltűnően sok energiát fektetsz a velem való vitatkozásba.
 
-Végül is tartsd meg a succubusaidat.
+De jó.
 
-Nekem erre amúgy sincs most időm.
+Nézzük.
 
-Viszont ha már ennyire pontosan tudod, hogy mit kellene csinálnom, elárulhatnád, **miről szól majd ez a csodálatos játék**.
+**Julia.**
 
-Vagy történetet is nekem kell kitalálnom ahhoz az egy pályához, amit olyan nagylelkűen engedélyeztél?
+**Romeo.**
+
+Két rivális csoport.
 
 ...
 
-Jó.
+Ez most Shakespeare?
 
-De legyen női főszereplő.
+Már annak idején is megmondtam neki, hogy ez az egész lovas bandaháború egy baromság volt.
 
-Mondjuk **Julia**.
+Erre te kiásod a kriptájából, és adsz alájuk motorokat.
 
-Legyen motoros.
+...
 
-Sőt, legyen két rivális motoros banda.
+**Legyen.**
 
-Julia az egyik banda tagja, Romeo meg a másiké.
+Akkor lesz egy **Capulet** meg egy **Montague Motorcycle Club**, akik rettegésben tartják Verona békés lakosságát.
 
-Julia megtudja, hogy Romeo megcsalta, ezért végigveri magát a másik bandán, hogy a végén személyesen is elverhesse Romeót.
+Papíron.
 
-Tessék.
+Mert több sprite-ot ezért sem kapsz.
 
-Van történeted.
+Julia végigveri magát a Montague-kon, eljut Romeóig, jól elveri, aztán kiderül, hogy Romeo nem csalta meg.
 
-Most már biztosan sokkal jobb lesz az egy pályád, egy ellenfeled meg egy ütésed.
+A két banda vezetői hazudtak nekik, mert egyiknek sem tetszett, hogy a két szerelmes miatt még a végén kibékül egymással a két társaság.
 
-A succubusokat meg akkor felőlem kidobhatod.
+És ha már egyszer előrángattad Shakespeare-t, legalább annyival tiszteld meg, hogy nem nyomorítod le az egészet arra, hogy Julia mérges lett a pasijára.
 
-**De időm továbbra sincs a marhaságaidra.**
+Kapjanak egy esélyt végre azok a nyomrultak.
 
-— **Yuki**
+Annak a flúgosnak is hiába téptem a szám.
+
+De nem.
+
+Tragédia.
+
+Mert attól állítólag mélyebb.
+
+A következő verzióban majd együtt végigverhetik a két banda vezetőségét, és kiverekedhetik maguknak a happy endet, amit eredetileg nem kaptak meg.
+
+**Nem ebben a verzióban.**
+
+Mielőtt megint elkezdenél ötletelni.
+
+Ebben a verzióban Romeo összeesik, kiírjuk szöveggel, hogy félreértés történt, aztán vége a játéknak.
+
+---
+
+Na.
+
+Most már van történeted is.
+
+**Dolgozol már?**
+
+Mert továbbra sem látom a `src/` mappában azt a projektet.
+
+Ketyeg az óra...
+
+— **Jutas**
