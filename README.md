@@ -1,69 +1,69 @@
-## Te most komolyan ezt találtad ki?
+## Na jó...
 
-Ahhoz képest, hogy állítólag nincs erre időd, feltűnően sok energiát fektetsz a velem való vitatkozásba.
+Végül is ez már egész jól hangzik.
 
-De jó.
+Akár még játékot is lehetne belőle csinálni.
 
-Nézzük.
+Viszont akkor már csak egy apró probléma maradt.
 
-**Julia.**
+**Mi lesz a címe?**
 
-**Romeo.**
+Meg egyébként is...
 
-Két rivális csoport.
+Mi köze van ennek az egésznek L.Mole-hoz?
 
-...
+Mert azért mégiscsak az ő videojátékát próbáljuk elkészíteni.
 
-Ez most Shakespeare?
-
-Már annak idején is megmondtam neki, hogy ez az egész lovas bandaháború egy baromság volt.
-
-Erre te kiásod a kriptájából, és adsz alájuk motorokat.
+Valahogy be kellene kötni a sorozathoz.
 
 ...
 
-**Legyen.**
+Mondjuk lehetne benne valami multidimenziós tér-idő utazás.
 
-Akkor lesz egy **Capulet** meg egy **Montague Motorcycle Club**, akik rettegésben tartják Verona békés lakosságát.
+A játékos valahogy bekerülne a játékba, aztán az egész program átnyílna egy alternatív univerzumba, ahol találkoznánk egy másik L.Mole-lal.
 
-Papíron.
+Ebben a valóságban soha nem hagyta abba a videózást.
 
-Mert több sprite-ot ezért sem kapsz.
+Viszont valamiért már nem tud új videókat készíteni, ezért a játékosnak kellene összegyűjtenie a szükséges játékanyagokat, jeleneteket meg régi videórészleteket.
 
-Julia végigveri magát a Montague-kon, eljut Romeóig, jól elveri, aztán kiderül, hogy Romeo nem csalta meg.
+Aztán lehetne benne egy videóeditor.
 
-A két banda vezetői hazudtak nekik, mert egyiknek sem tetszett, hogy a két szerelmes miatt még a végén kibékül egymással a két társaság.
+Ott a játékos maga rakná össze az új L.Mole-epizódot.
 
-És ha már egyszer előrángattad Shakespeare-t, legalább annyival tiszteld meg, hogy nem nyomorítod le az egészet arra, hogy Julia mérges lett a pasijára.
+A kész videót akár exportálhatná is.
 
-Kapjanak egy esélyt végre azok a nyomrultak.
+És ha a játékosok feltöltik ezeket YouTube-ra, azzal tulajdonképpen életben tartanák az alternatív univerzumbeli L.Mole-t, és újra lennének videók.
 
-Annak a flúgosnak is hiába téptem a szám.
+...
 
-De nem.
+Mondjuk ehhez kellene egy rendes videóvágó rendszer.
 
-Tragédia.
+Meg export.
 
-Mert attól állítólag mélyebb.
+Meg valami időutazós HUB.
 
-A következő verzióban majd együtt végigverhetik a két banda vezetőségét, és kiverekedhetik maguknak a happy endet, amit eredetileg nem kaptak meg.
+Talán több L.Mole is lehetne különböző időpontokból.
 
-**Nem ebben a verzióban.**
+A játék végére pedig kellene valami kisebb easter egg azoknak, akik mindent megcsináltak.
 
-Mielőtt megint elkezdenél ötletelni.
+Például egy személyes interjú L.Mole-lal.
 
-Ebben a verzióban Romeo összeesik, kiírjuk szöveggel, hogy félreértés történt, aztán vége a játéknak.
+Nem hosszú.
 
----
+Mondjuk **365 perc**.
 
-Na.
+Szimbolikusan.
 
-Most már van történeted is.
+Ja, és az egész játék ráférhetne egy floppyra.
 
-**Dolgozol már?**
+Az nagyon autentikus lenne.
 
-Mert továbbra sem látom a `src/` mappában azt a projektet.
+Ehhez igazából csak egy új videótömörítési eljárást kellene kifejlesztenem.
 
-Ketyeg az óra...
+...
 
-— **Jutas**
+**Na?**
+
+Így már van köze L.Mole-hoz is.
+
+— **Yuki**
