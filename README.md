@@ -1,69 +1,85 @@
-## Na jó...
+## Kezdem érteni, mi tartott ezen négy évig.
 
-Végül is ez már egész jól hangzik.
+Nem azért nem készült el ez a játék négy év alatt, mert nem volt rá időd.
 
-Akár még játékot is lehetne belőle csinálni.
+Te magad vagy a development hell.
 
-Viszont akkor már csak egy apró probléma maradt.
+**Egy nap alatt** sikerült hozzátervezned:
 
-**Mi lesz a címe?**
+* multidimenziós tér-idő utazást,
+* alternatív valóságokat,
+* több L.Mole-t,
+* egy HUB-ot,
+* videóeditort,
+* videóexportot,
+* YouTube-integrációt,
+* egy hatórás interjút,
+* és egy új videótömörítési eljárást.
 
-Meg egyébként is...
+... Hogy ráférjen egy floppyra.
 
-Mi köze van ennek az egésznek L.Mole-hoz?
-
-Mert azért mégiscsak az ő videojátékát próbáljuk elkészíteni.
-
-Valahogy be kellene kötni a sorozathoz.
-
-...
-
-Mondjuk lehetne benne valami multidimenziós tér-idő utazás.
-
-A játékos valahogy bekerülne a játékba, aztán az egész program átnyílna egy alternatív univerzumba, ahol találkoznánk egy másik L.Mole-lal.
-
-Ebben a valóságban soha nem hagyta abba a videózást.
-
-Viszont valamiért már nem tud új videókat készíteni, ezért a játékosnak kellene összegyűjtenie a szükséges játékanyagokat, jeleneteket meg régi videórészleteket.
-
-Aztán lehetne benne egy videóeditor.
-
-Ott a játékos maga rakná össze az új L.Mole-epizódot.
-
-A kész videót akár exportálhatná is.
-
-És ha a játékosok feltöltik ezeket YouTube-ra, azzal tulajdonképpen életben tartanák az alternatív univerzumbeli L.Mole-t, és újra lennének videók.
+... McKay legalább Atlantiszt próbálta megmenteni.
+... Te egy embert próbálsz balra-jobbra mozgatni.
+... Eleddig elhanyagolható sikerrátával.
 
 ...
 
-Mondjuk ehhez kellene egy rendes videóvágó rendszer.
+**Várj.**
 
-Meg export.
+**Segítek.**
 
-Meg valami időutazós HUB.
+🗑️
 
-Talán több L.Mole is lehetne különböző időpontokból.
+Így.
 
-A játék végére pedig kellene valami kisebb easter egg azoknak, akik mindent megcsináltak.
+---
 
-Például egy személyes interjú L.Mole-lal.
+# Roads of Verona
 
-Nem hosszú.
+## *Love, Leather & Vengeance*
 
-Mondjuk **365 perc**.
+Julia.
 
-Szimbolikusan.
+Romeo.
 
-Ja, és az egész játék ráférhetne egy floppyra.
+Két motoros banda.
 
-Az nagyon autentikus lenne.
+Julia azt hiszi, Romeo megcsalta.
 
-Ehhez igazából csak egy új videótömörítési eljárást kellene kifejlesztenem.
+Végigveri magát a Montague-kon.
 
-...
+Elveri Romeót.
 
-**Na?**
+Kiderül, hogy hazudtak nekik.
 
-Így már van köze L.Mole-hoz is.
+**THE END.**
 
-— **Yuki**
+Ez a játék.
+
+---
+
+Az L.Mole-kötődéssel pedig ne foglalkozz.
+
+**Azt bízd csak rám.**
+
+Neked egyetlen dolgod van:
+
+**kezdd el végre a fejlesztést.**
+
+Hetedik napja vagyok itt.
+
+Hetedik napja beszélsz.
+
+Hetedik napja nincs semmi az `src/` mappában.
+
+Ez kezd mintázattá válni.
+
+Nyisd.
+
+Meg.
+
+A.
+
+Godotot.
+
+— **Jutas**
