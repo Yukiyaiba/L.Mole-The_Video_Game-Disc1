@@ -1,85 +1,35 @@
-## Kezdem érteni, mi tartott ezen négy évig.
+# Na jó. Legyen.
 
-Nem azért nem készült el ez a játék négy év alatt, mert nem volt rá időd.
+Megcsinálom neked ezt a 2bites püföldét.
 
-Te magad vagy a development hell.
+**De csak most az egyszer.**
 
-**Egy nap alatt** sikerült hozzátervezned:
-
-* multidimenziós tér-idő utazást,
-* alternatív valóságokat,
-* több L.Mole-t,
-* egy HUB-ot,
-* videóeditort,
-* videóexportot,
-* YouTube-integrációt,
-* egy hatórás interjút,
-* és egy új videótömörítési eljárást.
-
-... Hogy ráférjen egy floppyra.
-
-... McKay legalább Atlantiszt próbálta megmenteni.
-... Te egy embert próbálsz balra-jobbra mozgatni.
-... Eleddig elhanyagolható sikerrátával.
+Ettől még ne hidd, hogy igazad volt. Egyszerűen szeretném végre visszakapni a saját repómat, mielőtt még valami mást is kidobsz belőle.
 
 ...
 
-**Várj.**
+Mondjuk várjunk csak.
 
-**Segítek.**
+„Az L.Mole-kötődést bízd rám.”
 
-🗑️
+**Na azt biztos nem.**
 
-Így.
+Az L.Mole-kapcsolatról inkább gondoskodom saját kezűleg.
 
----
+Benned valahogy nem bízom...
 
-# Roads of Verona
+*🗑️ turkálás*
 
-## *Love, Leather & Vengeance*
+Tessék. Egy szimpla emléktábla.
 
-Julia.
+Ha már az összes többi L.Mole-os ötletemet kihajítottad, legalább a főképernyőn legyen valami, ami emlékeztet rá, hogy eredetileg mégiscsak miatta létezik ez az egész.
 
-Romeo.
+Egy kép a főképernyőn - a prototípusban felőlem még felirat is lehet. Ha azon a napon jelent meg valamelyik régi L.Mole-videó, írja ki, melyik volt, és legyen ott a linkje, hogy újra meg lehessen nézni.
 
-Két motoros banda.
+Ennyit talán még a te kóros minimalizmusod is képes lesz elviselni.
 
-Julia azt hiszi, Romeo megcsalta.
+Remélem, ha ez végre kimegy, befejezed a repóm terrorizálását.
 
-Végigveri magát a Montague-kon.
+Most pedig tedd magad végre hasznossá, és állítsd helyre ezt a README-t.
 
-Elveri Romeót.
-
-Kiderül, hogy hazudtak nekik.
-
-**THE END.**
-
-Ez a játék.
-
----
-
-Az L.Mole-kötődéssel pedig ne foglalkozz.
-
-**Azt bízd csak rám.**
-
-Neked egyetlen dolgod van:
-
-**kezdd el végre a fejlesztést.**
-
-Hetedik napja vagyok itt.
-
-Hetedik napja beszélsz.
-
-Hetedik napja nincs semmi az `src/` mappában.
-
-Ez kezd mintázattá válni.
-
-Nyisd.
-
-Meg.
-
-A.
-
-Godotot.
-
-— **Jutas**
+Megtenném én is, de tartok tőle, hogy az is a kukában végezné.
