@@ -1,35 +1,86 @@
-# Na jó. Legyen.
+# L.Mole – The Video Game – Disc 1
 
-Megcsinálom neked ezt a 2bites püföldét.
+> **Development Hell**
 
-**De csak most az egyszer.**
+Négy év fejlesztési pokol után a projekt újratervezésre került.
 
-Ettől még ne hidd, hogy igazad volt. Egyszerűen szeretném végre visszakapni a saját repómat, mielőtt még valami mást is kidobsz belőle.
+Az új projekt célja, hogy L.Mole kedvenc beat ’em up játékainak hangulatát idézze meg, és egy kis szeletet adjon abból a videojátékos korszakból, amelyre ma már sokan nosztalgiával gondolunk — függetlenül attól, hogy átéltük-e.
 
-...
+A játék része lesz egy kis **nosztalgiamozi** is. A főképernyő az adott napon korábban megjelent L.Mole-epizódok közül időnként felajánl egyet újranézésre, az eredeti videóra mutató linkkel. Így a régi premierek évfordulói minden évben apró, visszatérő eseményekké válhatnak.
 
-Mondjuk várjunk csak.
+A korábbi tervekkel ellentétben ezúttal a projekt kisebb, önállóan is működő fejlesztési szakaszokra lett bontva.
 
-„Az L.Mole-kötődést bízd rám.”
+Először egy szándékosan minimalista prototípus készül el. A cél nem az, hogy már az első verzió nagy vagy látványos legyen, hanem hogy **elkészüljön és végigjátszható legyen**.
 
-**Na azt biztos nem.**
+Ha a szükséges rendszerek már működnek, a későbbi verziók fokozatosan kapják meg a részletesebb, modernebb — de továbbra is pixelgrafikus — megjelenést és a kibővített játékmenetet.
 
-Az L.Mole-kapcsolatról inkább gondoskodom saját kezűleg.
+---
 
-Benned valahogy nem bízom...
+# Roads of Verona
 
-*🗑️ turkálás*
+## *Love, Leather & Vengeance*
 
-Tessék. Egy szimpla emléktábla.
+Két motoros banda évtizedek óta tartja rettegésben Verona békés lakosságát.
 
-Ha már az összes többi L.Mole-os ötletemet kihajítottad, legalább a főképernyőn legyen valami, ami emlékeztet rá, hogy eredetileg mégiscsak miatta létezik ez az egész.
+A **Montague Motorcycle Club** és a **Capulet Motorcycle Club** közötti háború új fordulatot vesz, amikor Julia Capulet megtudja, hogy szerelme, Romeo Montague megcsalta.
 
-Egy kép a főképernyőn - a prototípusban felőlem még felirat is lehet. Ha azon a napon jelent meg valamelyik régi L.Mole-videó, írja ki, melyik volt, és legyen ott a linkje, hogy újra meg lehessen nézni.
+Julia motorra ül, hogy keresztülverekedje magát a Montague bandán, és személyesen rendezze a számlát Romeóval.
 
-Ennyit talán még a te kóros minimalizmusod is képes lesz elviselni.
+Csakhogy nem minden az, aminek látszik.
 
-Remélem, ha ez végre kimegy, befejezed a repóm terrorizálását.
+---
 
-Most pedig tedd magad végre hasznossá, és állítsd helyre ezt a README-t.
+## Fejlesztés
 
-Megtenném én is, de tartok tőle, hogy az is a kukában végezné.
+**Motor:** Godot
+**Forrás:** `src/`
+**Aktuális cél:** Prototype 1
+
+### Prototype 1
+
+* 320×180 felbontás
+* 16 szín
+* 1 játszható karakter
+* 1 ellenféltípus
+* 1 támadás
+* 1 aréna
+* 1 boss
+* elejétől a végéig játszható build
+
+A részletes fejlesztési tervek a `TERVEK/` könyvtárban találhatók.
+
+---
+
+# Disc 1
+
+### TRACK 01 — Roads of Verona
+
+`░░|░░░|░░░|░░░░░|░░░░░░|░░░░░` **0%**
+
+### TRACK 02 — Midnight Ride
+
+`░░|░░░|░░░|░░░░|░░░░░░|░░░░░░` **0%**
+
+### TRACK 03 — After the Sunset
+
+`░░░░░░|░░░░░░|░░░░░░░|░░░░░` **0%**
+
+### TRACK 04 — Roadside Companion
+
+`░░|░░|░░░|░░░░|░░░░░|░░░|░░░|░░` **0%**
+
+### TRACK 05 — Yesterday's News
+
+`░░|░░|░░░|░░░░|░░░░░|░░░|░░░|░░` **0%**
+
+---
+
+## Projektstruktúra
+
+`src/` — a játék forráskódja és erőforrásai
+`TERVEK/` — fejlesztési tervek és dokumentáció
+`TOROLT_ALMOK/` — korábbi koncepciók és elvetett tervek
+
+---
+
+*L.Mole – The Video Game* rajongói projekt.
